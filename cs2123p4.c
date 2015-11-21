@@ -64,7 +64,6 @@ int main(int argc, char *argv[])
  I  int iTimeLimit                  The maximum amount of time units that
                                     the simulation is allowed to run for.
                                     (not enforced).
-                                    test
  **************************************************************************/
 void runSimulation(Simulation simulation, int iTimeLimit)
 {
